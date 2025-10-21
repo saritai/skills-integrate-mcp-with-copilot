@@ -1,8 +1,8 @@
 ---
 name: Test agent
-description:
+description: test
 ---
 
 # My Agent
 
-Describe what your agent does here...
+In the PR you create, say "Hello World!"

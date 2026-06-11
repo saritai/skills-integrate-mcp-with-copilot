@@ -9,7 +9,7 @@ network: defaults
 
 tools:
   github:
-    toolsets: [default]
+    toolsets: [issues]
 
 safe-outputs:
   create-issue:

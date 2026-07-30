@@ -7,7 +7,7 @@ A super simple FastAPI application that allows students to view and sign up for 
 - View all available extracurricular activities
 - Sign up for activities
 - Unregister from activities
-- Automatic email normalization (trim + lowercase) and validation
+- Automatic email normalization: trim and lowercase before validation
 
 ## Getting Started
 
